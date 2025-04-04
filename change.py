@@ -9,3 +9,5 @@ def change():
     print("vuelto\n")
     print(f"pesos:\n{pesos}")
     print(f"centavos:\n{centavos}")
+
+change()
